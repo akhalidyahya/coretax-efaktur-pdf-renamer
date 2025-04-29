@@ -1,0 +1,14 @@
+{
+    "name": "akhalidyahya/coretax-efaktur-renamer",
+    "description": "Rename E-faktur PDFs by Referensi extracted from content",
+    "require": {
+      "smalot/pdfparser": "^1.0"
+    },
+    "config": {
+      "platform": {
+        "php": "8.1.0"
+      }
+    },
+    "minimum-stability": "stable"
+  }
+  
